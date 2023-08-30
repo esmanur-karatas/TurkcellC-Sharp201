@@ -1,9 +1,18 @@
-Yapmak İstediklerim.
+# Turkcell Geleceği Yazanlar C# İle Algoritma ve Programlama 201 Depo
 
--Console çalıştığında önce kullanıcıdan kullanıcı adı ve kullanıcı şifresi belirlemesini istiyorum.
+Bu depo, **Turkcell Geleceği Yazanlar** tarafından C# Algoritma ve Programlama 201 dersindeki örnekleri ve bitirme projesini içermektedir. Ayrıca, her örnek ve proje için yorum satırlarıyla açıklamalar eklenmiştir.
 
--Ardından bunları kaydedip giriş yapmasını istiyorum. Kullanıcının en fazla 3 tane yanlış şifre girme hakkı var ve her yanlış şifre kullanıcı adı girdiğinde kalan hakkını ekranda gösteriyor. Hakkı bitince de ekrana "hesabınız bloke edildi. Lütfen bankayla iletişime geçiniz" yazdırıyoruz. (yaptım).
+## İçerik
 
--Giriş yaptıktan sonra yapacağı işlemi seçecek para yatırma, para çekme, bakiye sorgulama gibi.
+- Derslerde işlenen örnekler bulunmaktadır.
+- Dersin bitirme projesi yer almaktadır.
+- Her bir örnek ve proje için detaylı açıklamalar mevcuttur.
 
--Sonra seçtiği işleme göre işlem yapacak.
+## Nasıl Kullanılır?
+
+1. Bu depoyu bilgisayarınıza **clone** veya **indir** butonu ile alabilirsiniz.
+2. Örnekleri ve bitirme projesini inceleyebilirsiniz. Her bir dosyanın yanında yorum satırları ile açıklamalar bulunmaktadır.
+3. Kendi projelerinizde veya çalışmalarınızda bu örnekleri kullanabilir veya ilham alabilirsiniz.
+
+
+
