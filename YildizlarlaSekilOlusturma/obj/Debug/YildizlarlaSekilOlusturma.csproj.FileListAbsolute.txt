@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\YildizlarlaSekilOlusturma\bin\Debug\YildizlarlaSekilOlusturma.exe.config
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\YildizlarlaSekilOlusturma\bin\Debug\YildizlarlaSekilOlusturma.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\YildizlarlaSekilOlusturma\bin\Debug\YildizlarlaSekilOlusturma.pdb
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\YildizlarlaSekilOlusturma\obj\Debug\YildizlarlaSekilOlusturma.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\YildizlarlaSekilOlusturma\obj\Debug\YildizlarlaSekilOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\YildizlarlaSekilOlusturma\obj\Debug\YildizlarlaSekilOlusturma.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\YildizlarlaSekilOlusturma\obj\Debug\YildizlarlaSekilOlusturma.pdb
