@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Class\bin\Debug\Class.exe.config
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Class\bin\Debug\Class.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Class\bin\Debug\Class.pdb
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Class\obj\Debug\Class.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Class\obj\Debug\Class.pdb

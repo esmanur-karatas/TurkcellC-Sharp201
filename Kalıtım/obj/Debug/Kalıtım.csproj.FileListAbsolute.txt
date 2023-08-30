@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Kalıtım\bin\Debug\Kalıtım.exe.config
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Kalıtım\bin\Debug\Kalıtım.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Kalıtım\bin\Debug\Kalıtım.pdb
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Kalıtım\obj\Debug\Kalıtım.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Kalıtım\obj\Debug\Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Kalıtım\obj\Debug\Kalıtım.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Kalıtım\obj\Debug\Kalıtım.pdb

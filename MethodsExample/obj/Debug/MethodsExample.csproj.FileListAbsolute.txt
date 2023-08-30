@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\MethodsExample\bin\Debug\MethodsExample.exe.config
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\MethodsExample\bin\Debug\MethodsExample.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\MethodsExample\bin\Debug\MethodsExample.pdb
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\MethodsExample\obj\Debug\MethodsExample.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\MethodsExample\obj\Debug\MethodsExample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\MethodsExample\obj\Debug\MethodsExample.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\MethodsExample\obj\Debug\MethodsExample.pdb

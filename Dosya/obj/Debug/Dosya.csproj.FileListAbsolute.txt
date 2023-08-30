@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Dosya\bin\Debug\Dosya.exe.config
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Dosya\bin\Debug\Dosya.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Dosya\bin\Debug\Dosya.pdb
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Dosya\obj\Debug\Dosya.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Dosya\obj\Debug\Dosya.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Dosya\obj\Debug\Dosya.exe
+C:\Users\DELL\Desktop\C#\TurkcellGelecegiYazanlarExampleSolution\Dosya\obj\Debug\Dosya.pdb
